@@ -1,5 +1,5 @@
 def func1():
-	pass
+	print("I am function1 and created by dev1")
 def func2():
 	pass
 def func3():
