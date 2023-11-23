@@ -3,7 +3,7 @@ def func1():
 def func2():
 	print("I have addded funct2 done by dev2")
 def func3():
-	pass
+	print("I have added function3")
 
 
 func1()
